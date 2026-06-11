@@ -113,7 +113,7 @@ function Footer() {
       </div>
 
       {/* BOTTOM COPYRIGHT */}
-      <div className="bg-[#125384] py-4 text-center text-white text-sm">
+      <div className="bg-[#125384] py-4 text-center text-white text-sm py-7">
         © {new Date().getFullYear()} BusinessSansar.com — सर्वाधिकार सुरक्षित
       </div>
 
